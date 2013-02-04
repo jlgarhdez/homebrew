@@ -39,6 +39,8 @@ class Macvim < Formula
       --enable-pythoninterp
       --enable-rubyinterp
       --enable-tclinterp
+      --enable-clipboard=yes
+      --enable-xterm-clipboard=yes
       --with-ruby-command=/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
     ]
 
